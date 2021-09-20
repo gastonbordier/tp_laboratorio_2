@@ -1,0 +1,42 @@
+C:\Users\Gaston\source\repos\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.exe
+C:\Users\Gaston\source\repos\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.deps.json
+C:\Users\Gaston\source\repos\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.json
+C:\Users\Gaston\source\repos\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.dev.json
+C:\Users\Gaston\source\repos\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Gaston\source\repos\MiCalculadora\bin\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\Gaston\source\repos\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\Gaston\source\repos\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\Gaston\source\repos\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Gaston\source\repos\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaston\source\repos\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\Gaston\source\repos\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfo.cs
+C:\Users\Gaston\source\repos\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Gaston\source\repos\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Gaston\source\repos\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\Gaston\source\repos\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\Gaston\source\repos\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache
+C:\Users\Gaston\source\repos\MiCalculadora\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Gaston\source\repos\MiCalculadora\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Gaston\source\repos\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CopyComplete
+C:\Users\Gaston\source\repos\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.FormCalculadora.resources
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.AssemblyReference.cache
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.FormCalculadora.resources
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfoInputs.cache
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.AssemblyInfo.cs
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.exe
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.deps.json
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.json
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.runtimeconfig.dev.json
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.dll
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\ref\MiCalculadora.dll
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\MiCalculadora.pdb
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.csproj.CopyComplete
+C:\Users\Gaston\Desktop\tp_laboratorio_2\Trabajo Practico 1\MiCalculadora\obj\Debug\net5.0-windows\MiCalculadora.genruntimeconfig.cache
